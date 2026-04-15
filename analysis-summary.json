@@ -1,0 +1,688 @@
+{
+  "base_folder": "/Users/clank/.hermes/workspace/webs/129-elviajedelabotella.com",
+  "domain": "elviajedelabotella.com",
+  "gsc_alias": "seo",
+  "period_start": "2024-12-17",
+  "period_end": "2026-04-11",
+  "top_pages": [
+    {
+      "page": "https://elviajedelabotella.com/ohio/mitos-leyendas-urbanas-16/",
+      "gsc_clicks": 12,
+      "gsc_impr": 185,
+      "bing_clicks": 1,
+      "bing_impr": 4,
+      "total_clicks": 13,
+      "total_impressions": 189
+    },
+    {
+      "page": "https://elviajedelabotella.com/maine/mitos-leyendas-urbanas-8/",
+      "gsc_clicks": 9,
+      "gsc_impr": 64,
+      "bing_clicks": 0,
+      "bing_impr": 0,
+      "total_clicks": 9,
+      "total_impressions": 64
+    },
+    {
+      "page": "https://elviajedelabotella.com/wisconsin/recogiendo-manzanas-38/",
+      "gsc_clicks": 8,
+      "gsc_impr": 237,
+      "bing_clicks": 0,
+      "bing_impr": 0,
+      "total_clicks": 8,
+      "total_impressions": 237
+    },
+    {
+      "page": "https://elviajedelabotella.com/virginia/recogiendo-manzanas-35/",
+      "gsc_clicks": 7,
+      "gsc_impr": 605,
+      "bing_clicks": 0,
+      "bing_impr": 0,
+      "total_clicks": 7,
+      "total_impressions": 605
+    },
+    {
+      "page": "https://elviajedelabotella.com/delaware/tiendas-de-segunda-mano-8/",
+      "gsc_clicks": 7,
+      "gsc_impr": 243,
+      "bing_clicks": 0,
+      "bing_impr": 0,
+      "total_clicks": 7,
+      "total_impressions": 243
+    },
+    {
+      "page": "https://elviajedelabotella.com/arkansas/mitos-leyendas-urbanas/",
+      "gsc_clicks": 6,
+      "gsc_impr": 95,
+      "bing_clicks": 0,
+      "bing_impr": 0,
+      "total_clicks": 6,
+      "total_impressions": 95
+    },
+    {
+      "page": "https://elviajedelabotella.com/iowa/tiendas-de-segunda-mano-12/",
+      "gsc_clicks": 5,
+      "gsc_impr": 282,
+      "bing_clicks": 0,
+      "bing_impr": 0,
+      "total_clicks": 5,
+      "total_impressions": 282
+    },
+    {
+      "page": "https://elviajedelabotella.com/nueva-york/pintura-y-vino-32/",
+      "gsc_clicks": 5,
+      "gsc_impr": 138,
+      "bing_clicks": 0,
+      "bing_impr": 0,
+      "total_clicks": 5,
+      "total_impressions": 138
+    },
+    {
+      "page": "https://elviajedelabotella.com/carolina-del-sur/peliculas-filmadas-aqui-12/",
+      "gsc_clicks": 4,
+      "gsc_impr": 188,
+      "bing_clicks": 0,
+      "bing_impr": 2,
+      "total_clicks": 4,
+      "total_impressions": 190
+    },
+    {
+      "page": "https://elviajedelabotella.com/carolina-del-sur/tiendas-de-segunda-mano-40/",
+      "gsc_clicks": 4,
+      "gsc_impr": 176,
+      "bing_clicks": 0,
+      "bing_impr": 0,
+      "total_clicks": 4,
+      "total_impressions": 176
+    },
+    {
+      "page": "https://elviajedelabotella.com/kentucky/recogiendo-manzanas-12/",
+      "gsc_clicks": 4,
+      "gsc_impr": 128,
+      "bing_clicks": 0,
+      "bing_impr": 0,
+      "total_clicks": 4,
+      "total_impressions": 128
+    },
+    {
+      "page": "https://elviajedelabotella.com/colorado/tiendas-de-mascotas-6/",
+      "gsc_clicks": 4,
+      "gsc_impr": 89,
+      "bing_clicks": 0,
+      "bing_impr": 0,
+      "total_clicks": 4,
+      "total_impressions": 89
+    },
+    {
+      "page": "https://elviajedelabotella.com/nueva-jersey/ferreterias-31/",
+      "gsc_clicks": 4,
+      "gsc_impr": 60,
+      "bing_clicks": 0,
+      "bing_impr": 0,
+      "total_clicks": 4,
+      "total_impressions": 60
+    },
+    {
+      "page": "https://elviajedelabotella.com/ohio/lugares-de-fiesta-de-cumpleanos-para-ninos-35/",
+      "gsc_clicks": 4,
+      "gsc_impr": 60,
+      "bing_clicks": 0,
+      "bing_impr": 0,
+      "total_clicks": 4,
+      "total_impressions": 60
+    },
+    {
+      "page": "https://elviajedelabotella.com/georgia/lugares-de-fiesta-de-cumpleanos-para-ninos-10/",
+      "gsc_clicks": 4,
+      "gsc_impr": 34,
+      "bing_clicks": 0,
+      "bing_impr": 0,
+      "total_clicks": 4,
+      "total_impressions": 34
+    },
+    {
+      "page": "https://elviajedelabotella.com/nueva-york/tiendas-de-mascotas-32/",
+      "gsc_clicks": 2,
+      "gsc_impr": 836,
+      "bing_clicks": 1,
+      "bing_impr": 15,
+      "total_clicks": 3,
+      "total_impressions": 851
+    },
+    {
+      "page": "https://elviajedelabotella.com/colorado/lugares-de-fiesta-de-cumpleanos-para-ninos-6/",
+      "gsc_clicks": 3,
+      "gsc_impr": 425,
+      "bing_clicks": 0,
+      "bing_impr": 0,
+      "total_clicks": 3,
+      "total_impressions": 425
+    },
+    {
+      "page": "https://elviajedelabotella.com/kansas/tiendas-de-segunda-mano-16/",
+      "gsc_clicks": 3,
+      "gsc_impr": 159,
+      "bing_clicks": 0,
+      "bing_impr": 1,
+      "total_clicks": 3,
+      "total_impressions": 160
+    },
+    {
+      "page": "https://elviajedelabotella.com/nueva-york/camping-27/",
+      "gsc_clicks": 0,
+      "gsc_impr": 122,
+      "bing_clicks": 3,
+      "bing_impr": 7,
+      "total_clicks": 3,
+      "total_impressions": 129
+    },
+    {
+      "page": "https://elviajedelabotella.com/maryland/peliculas-filmadas-aqui-6/",
+      "gsc_clicks": 3,
+      "gsc_impr": 110,
+      "bing_clicks": 0,
+      "bing_impr": 2,
+      "total_clicks": 3,
+      "total_impressions": 112
+    },
+    {
+      "page": "https://elviajedelabotella.com/luisiana/centros-de-jardin-16/",
+      "gsc_clicks": 3,
+      "gsc_impr": 96,
+      "bing_clicks": 0,
+      "bing_impr": 0,
+      "total_clicks": 3,
+      "total_impressions": 96
+    },
+    {
+      "page": "https://elviajedelabotella.com/idaho/lugar-de-boda-11/",
+      "gsc_clicks": 3,
+      "gsc_impr": 47,
+      "bing_clicks": 0,
+      "bing_impr": 0,
+      "total_clicks": 3,
+      "total_impressions": 47
+    },
+    {
+      "page": "https://elviajedelabotella.com/nuevo-mexico/hamburguesas-29/",
+      "gsc_clicks": 3,
+      "gsc_impr": 24,
+      "bing_clicks": 0,
+      "bing_impr": 0,
+      "total_clicks": 3,
+      "total_impressions": 24
+    },
+    {
+      "page": "https://elviajedelabotella.com/virginia/lugar-de-boda-36/",
+      "gsc_clicks": 3,
+      "gsc_impr": 23,
+      "bing_clicks": 0,
+      "bing_impr": 1,
+      "total_clicks": 3,
+      "total_impressions": 24
+    },
+    {
+      "page": "https://elviajedelabotella.com/vermont/celebraciones-de-primera-noche-de-ano-nuevo-33/",
+      "gsc_clicks": 3,
+      "gsc_impr": 17,
+      "bing_clicks": 0,
+      "bing_impr": 0,
+      "total_clicks": 3,
+      "total_impressions": 17
+    }
+  ],
+  "top_gsc_queries": [
+    {
+      "query": "lugares para acampar en colorado",
+      "page": "https://elviajedelabotella.com/colorado/camping-5/",
+      "clicks": 1,
+      "impressions": 121,
+      "ctr": 0.0083,
+      "position": 55.46
+    },
+    {
+      "query": "centro de juegos para niños cerca de mi",
+      "page": "https://elviajedelabotella.com/utah/centros-de-juego-para-ninos-18/",
+      "clicks": 1,
+      "impressions": 21,
+      "ctr": 0.0476,
+      "position": 10.81
+    },
+    {
+      "query": "lugares para pintar y tomar vino",
+      "page": "https://elviajedelabotella.com/nueva-york/pintura-y-vino-32/",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 49.44
+    },
+    {
+      "query": "lugar para cortar manzanas cerca de mi",
+      "page": "https://elviajedelabotella.com/virginia/recogiendo-manzanas-35/",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 47.62
+    },
+    {
+      "query": "lugar de brincolines para niños",
+      "page": "https://elviajedelabotella.com/utah/centros-de-juego-para-ninos-18/",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333,
+      "position": 10
+    },
+    {
+      "query": "ferias artesanales cerca de mi",
+      "page": "https://elviajedelabotella.com/michigan/ferias-de-artesania/",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 4
+    },
+    {
+      "query": "lugares para festejar cumpleaños de niños",
+      "page": "https://elviajedelabotella.com/nevada/lugares-de-fiesta-de-cumpleanos-para-ninos-33/",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 8.5
+    },
+    {
+      "query": "pollo frito nueva york",
+      "page": "https://elviajedelabotella.com/nueva-york/pollo-frito-32/",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 33.5
+    },
+    {
+      "query": "donde celebrar cumpleaños de niños",
+      "page": "https://elviajedelabotella.com/utah/lugares-de-fiesta-de-cumpleanos-para-ninos-44/",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 20
+    },
+    {
+      "query": "lugar para patinar sobre hielo",
+      "page": "https://elviajedelabotella.com/missouri/pistas-de-patinaje-sobre-hielo-16/",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "lugares para jugar con niños",
+      "page": "https://elviajedelabotella.com/new-hampshire/centros-de-juego-para-ninos-10/",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 6
+    },
+    {
+      "query": "lugares para noche de bodas",
+      "page": "https://elviajedelabotella.com/virginia/lugar-de-boda-36/",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 12
+    },
+    {
+      "query": "parques para celebrar cumpleaños de niños",
+      "page": "https://elviajedelabotella.com/colorado/lugares-de-fiesta-de-cumpleanos-para-ninos-6/",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 10
+    },
+    {
+      "query": "pista de patinaje sobre hielo",
+      "page": "https://elviajedelabotella.com/florida/pistas-de-patinaje-sobre-hielo-7/",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 18
+    },
+    {
+      "query": "dentista para niños",
+      "page": "https://elviajedelabotella.com/oregon/dentistas-amigables-para-ninos-37/",
+      "clicks": 0,
+      "impressions": 1436,
+      "ctr": 0,
+      "position": 84.05
+    },
+    {
+      "query": "estaciones de esqui new hampshire",
+      "page": "https://elviajedelabotella.com/new-hampshire/resort-de-snowboard-de-esqui-9/",
+      "clicks": 0,
+      "impressions": 576,
+      "ctr": 0,
+      "position": 61.04
+    },
+    {
+      "query": "centro de esquí en new hampshire",
+      "page": "https://elviajedelabotella.com/new-hampshire/resort-de-snowboard-de-esqui-9/",
+      "clicks": 0,
+      "impressions": 481,
+      "ctr": 0,
+      "position": 66.32
+    },
+    {
+      "query": "lugares para acampar en illinois",
+      "page": "https://elviajedelabotella.com/illinois/camping-10/",
+      "clicks": 0,
+      "impressions": 296,
+      "ctr": 0,
+      "position": 66.09
+    },
+    {
+      "query": "tienda de mascotas en queens ny",
+      "page": "https://elviajedelabotella.com/nueva-york/tiendas-de-mascotas-32/",
+      "clicks": 0,
+      "impressions": 251,
+      "ctr": 0,
+      "position": 84.59
+    },
+    {
+      "query": "zumba greenwood village",
+      "page": "https://elviajedelabotella.com/colorado/zumba-5/",
+      "clicks": 0,
+      "impressions": 223,
+      "ctr": 0,
+      "position": 83.99
+    },
+    {
+      "query": "panaderías premiadas en california",
+      "page": "https://elviajedelabotella.com/california/panaderias-5/",
+      "clicks": 0,
+      "impressions": 221,
+      "ctr": 0,
+      "position": 66.68
+    },
+    {
+      "query": "que hacer en detroit en invierno",
+      "page": "https://elviajedelabotella.com/michigan/actividades-de-invierno-21/",
+      "clicks": 0,
+      "impressions": 210,
+      "ctr": 0,
+      "position": 49.27
+    },
+    {
+      "query": "que hacer en michigan en invierno",
+      "page": "https://elviajedelabotella.com/michigan/actividades-de-invierno-21/",
+      "clicks": 0,
+      "impressions": 209,
+      "ctr": 0,
+      "position": 32.87
+    },
+    {
+      "query": "que hacer en arizona con niños",
+      "page": "https://elviajedelabotella.com/arizona/actividades-de-atracciones-familiares/",
+      "clicks": 0,
+      "impressions": 202,
+      "ctr": 0,
+      "position": 43.65
+    },
+    {
+      "query": "restaurantes en virginia occidental",
+      "page": "https://elviajedelabotella.com/west-virginia/restaurantes-46/",
+      "clicks": 0,
+      "impressions": 191,
+      "ctr": 0,
+      "position": 20.66
+    }
+  ],
+  "top_bing_pages": [
+    {
+      "page": "https://elviajedelabotella.com/nuevo-mexico/resort-de-snowboard-de-esqui-10/",
+      "clicks": 3,
+      "impressions": 11,
+      "days_with_data": 2,
+      "first_date": "2026-03-27",
+      "last_date": "2026-04-10",
+      "best_impression_position": 1,
+      "avg_impression_position": 1.5
+    },
+    {
+      "page": "https://elviajedelabotella.com/california/dispensarios-de-marihuana-2/",
+      "clicks": 3,
+      "impressions": 7,
+      "days_with_data": 2,
+      "first_date": "2026-03-20",
+      "last_date": "2026-04-10",
+      "best_impression_position": 4,
+      "avg_impression_position": 4.0
+    },
+    {
+      "page": "https://elviajedelabotella.com/nueva-york/camping-27/",
+      "clicks": 3,
+      "impressions": 7,
+      "days_with_data": 3,
+      "first_date": "2026-03-27",
+      "last_date": "2026-04-10",
+      "best_impression_position": 1,
+      "avg_impression_position": 3.0
+    },
+    {
+      "page": "https://elviajedelabotella.com/nueva-jersey/tiendas-de-segunda-mano-31/",
+      "clicks": 2,
+      "impressions": 17,
+      "days_with_data": 3,
+      "first_date": "2026-03-20",
+      "last_date": "2026-04-10",
+      "best_impression_position": 2,
+      "avg_impression_position": 3.67
+    },
+    {
+      "page": "https://elviajedelabotella.com/nueva-york/tiendas-de-bicicletas-34/",
+      "clicks": 2,
+      "impressions": 11,
+      "days_with_data": 3,
+      "first_date": "2026-03-20",
+      "last_date": "2026-04-10",
+      "best_impression_position": 4,
+      "avg_impression_position": 5.33
+    },
+    {
+      "page": "https://elviajedelabotella.com/california/librerias-5/",
+      "clicks": 2,
+      "impressions": 1,
+      "days_with_data": 1,
+      "first_date": "2026-03-20",
+      "last_date": "2026-03-20",
+      "best_impression_position": 3,
+      "avg_impression_position": 3.0
+    },
+    {
+      "page": "https://elviajedelabotella.com/california/tiendas-de-muebles-2/",
+      "clicks": 2,
+      "impressions": 1,
+      "days_with_data": 1,
+      "first_date": "2026-03-20",
+      "last_date": "2026-03-20",
+      "best_impression_position": 2,
+      "avg_impression_position": 2.0
+    },
+    {
+      "page": "https://elviajedelabotella.com/nueva-york/tiendas-de-zapatos-22/",
+      "clicks": 1,
+      "impressions": 20,
+      "days_with_data": 4,
+      "first_date": "2026-03-20",
+      "last_date": "2026-04-10",
+      "best_impression_position": 2,
+      "avg_impression_position": 3.25
+    },
+    {
+      "page": "https://elviajedelabotella.com/nueva-york/restaurantes-en-manhattan/",
+      "clicks": 1,
+      "impressions": 19,
+      "days_with_data": 4,
+      "first_date": "2026-03-20",
+      "last_date": "2026-04-10",
+      "best_impression_position": 6,
+      "avg_impression_position": 6.5
+    },
+    {
+      "page": "https://elviajedelabotella.com/nueva-york/tiendas-de-mascotas-32/",
+      "clicks": 1,
+      "impressions": 15,
+      "days_with_data": 2,
+      "first_date": "2026-03-27",
+      "last_date": "2026-04-03",
+      "best_impression_position": 3,
+      "avg_impression_position": 4.5
+    },
+    {
+      "page": "https://elviajedelabotella.com/nueva-york/tiendas-de-segunda-mano-34/",
+      "clicks": 1,
+      "impressions": 13,
+      "days_with_data": 3,
+      "first_date": "2026-03-20",
+      "last_date": "2026-04-03",
+      "best_impression_position": 7,
+      "avg_impression_position": 7.67
+    },
+    {
+      "page": "https://elviajedelabotella.com/hawai/actividades-educativas-para-ninos-10/",
+      "clicks": 1,
+      "impressions": 11,
+      "days_with_data": 3,
+      "first_date": "2026-03-20",
+      "last_date": "2026-04-03",
+      "best_impression_position": 6,
+      "avg_impression_position": 6.67
+    },
+    {
+      "page": "https://elviajedelabotella.com/california/panaderias-5/",
+      "clicks": 1,
+      "impressions": 7,
+      "days_with_data": 2,
+      "first_date": "2026-03-20",
+      "last_date": "2026-04-10",
+      "best_impression_position": 4,
+      "avg_impression_position": 6.0
+    },
+    {
+      "page": "https://elviajedelabotella.com/nevada/tiendas-de-segunda-mano-33/",
+      "clicks": 1,
+      "impressions": 6,
+      "days_with_data": 1,
+      "first_date": "2026-04-03",
+      "last_date": "2026-04-03",
+      "best_impression_position": 7,
+      "avg_impression_position": 7.0
+    },
+    {
+      "page": "https://elviajedelabotella.com/utah/pastelerias-42/",
+      "clicks": 1,
+      "impressions": 6,
+      "days_with_data": 2,
+      "first_date": "2026-03-20",
+      "last_date": "2026-04-03",
+      "best_impression_position": 1,
+      "avg_impression_position": 1.5
+    },
+    {
+      "page": "https://elviajedelabotella.com/florida/pistas-de-patinaje-sobre-hielo-7/",
+      "clicks": 1,
+      "impressions": 5,
+      "days_with_data": 2,
+      "first_date": "2026-03-20",
+      "last_date": "2026-03-27",
+      "best_impression_position": 4,
+      "avg_impression_position": 5.5
+    },
+    {
+      "page": "https://elviajedelabotella.com/nueva-york/buffets-24/",
+      "clicks": 1,
+      "impressions": 5,
+      "days_with_data": 1,
+      "first_date": "2026-04-10",
+      "last_date": "2026-04-10",
+      "best_impression_position": 5,
+      "avg_impression_position": 5.0
+    },
+    {
+      "page": "https://elviajedelabotella.com/nueva-york/delis-34/",
+      "clicks": 1,
+      "impressions": 5,
+      "days_with_data": 2,
+      "first_date": "2026-03-20",
+      "last_date": "2026-04-10",
+      "best_impression_position": 6,
+      "avg_impression_position": 7.0
+    },
+    {
+      "page": "https://elviajedelabotella.com/nueva-york/pastelerias-32/",
+      "clicks": 1,
+      "impressions": 5,
+      "days_with_data": 2,
+      "first_date": "2026-03-27",
+      "last_date": "2026-04-10",
+      "best_impression_position": 8,
+      "avg_impression_position": 8.0
+    },
+    {
+      "page": "https://elviajedelabotella.com/ohio/hechos-graciosos-29/",
+      "clicks": 1,
+      "impressions": 5,
+      "days_with_data": 2,
+      "first_date": "2026-03-20",
+      "last_date": "2026-04-03",
+      "best_impression_position": 2,
+      "avg_impression_position": 4.0
+    }
+  ],
+  "top_clusters_by_clicks": [
+    [
+      "nueva-york",
+      20
+    ],
+    [
+      "ohio",
+      17
+    ],
+    [
+      "carolina-del-sur",
+      12
+    ],
+    [
+      "colorado",
+      11
+    ],
+    [
+      "utah",
+      10
+    ],
+    [
+      "virginia",
+      10
+    ],
+    [
+      "california",
+      9
+    ],
+    [
+      "delaware",
+      9
+    ],
+    [
+      "maine",
+      9
+    ],
+    [
+      "nueva-jersey",
+      8
+    ],
+    [
+      "wisconsin",
+      8
+    ],
+    [
+      "connecticut",
+      7
+    ]
+  ]
+}
